@@ -10,11 +10,11 @@ For this tutorial I am going to use python 3.9.1 and windows 10 64-bit installat
 
    - Check in command line which version is running using
 
-```{r, eval=FALSE}
+```python
 python --version
 ```
    - The return should give the python version. If this is does not match, then trying previous steps again.
-```{r, eval=FALSE}
+```python
 Python 3.9.1
 ```
 
